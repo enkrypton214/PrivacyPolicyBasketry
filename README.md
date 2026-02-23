@@ -1,2 +1,51 @@
-# PrivacyPolicyBasketry
-Privacy policy page for basketry game
+Privacy Policy – Basketry
+
+Effective Date: 02/23/2026
+
+Basketry is a fruit dropper collector game developed using Unity for Android devices.
+
+This Privacy Policy explains how information is handled when you use the game.
+
+1. Information We Collect
+
+Basketry does not collect, store, or share any personal information.
+
+The game:
+
+Does not require user registration
+
+Does not require login
+
+Does not collect names, emails, or phone numbers
+
+Does not use in-app purchases
+
+Does not display advertisements
+
+Does not use analytics services
+
+Basketry operates entirely offline and does not transmit user data to external servers.
+
+2. Device Permissions
+
+Basketry does not request special device permissions beyond those required by the Android operating system to run the application.
+
+3. Children’s Privacy
+
+Basketry does not knowingly collect any personal information from anyone, including children under the age of 13.
+
+4. Data Security
+
+Since no personal data is collected or transmitted, there is no user data stored by the developer.
+
+5. Changes to This Policy
+
+If Basketry adds features such as online services, analytics, ads, or in-app purchases in the future, this Privacy Policy will be updated accordingly.
+
+6. Contact Information
+
+If you have any questions about this Privacy Policy, you may contact:
+
+Developer: Shreyas Acharya
+Email: enkryptongames@gmail.com
+Game: Basketry
